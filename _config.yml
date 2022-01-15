@@ -1,0 +1,17 @@
+title: Kaju Turkoglu
+url: "https://kaju2020.com/"
+baseurl: ""
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/engi2nee"
+footer_text: "Created by Engi2nee"
+
+
+sass:
+    style: compressed
+    sass_dir: _sass
